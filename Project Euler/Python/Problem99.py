@@ -12,4 +12,4 @@ def largest_exponential(file):
         
 
 if __name__ == "__main__":
-    print(largest_exponential("../assets/Problem99.txt"))
+    print(largest_exponential("./assets/Problem99.txt"))
